@@ -6,9 +6,6 @@
 
 ## 📒 Language  
 
-- ### 📖 C Sharp
-    * [
-
 
 - ### 📖 JAVA
     * [What is Java?](./docs/Java/Java.md)
