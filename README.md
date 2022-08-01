@@ -2,10 +2,7 @@
 
 ##### 신입 개발자로서 성장을 위한 전공 지식을 정리합니다 :blush:
 
-**Collaborators** : [HyeminNoh](https://github.com/HyeminNoh), [SohyeonJang](https://github.com/shjang1013), [YoungcheolPark](https://github.com/dudcheol)  
-**Commit convention rule** : 상태-파일명-상세내용  
-`ex) Add/Update/Delete FileName contents`  
-<br>
+
 
 ## 📒 Language  
 
