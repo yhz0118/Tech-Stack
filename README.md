@@ -1,10 +1,14 @@
 # 📚 Tech-Stack
 
-##### 신입 개발자로서 성장을 위한 전공 지식을 정리합니다 :blush:
+##### tech stacks for a brand-new developer :blush:
 
 
 
 ## 📒 Language  
+
+- ### 📖 C Sharp
+    * [
+
 
 - ### 📖 JAVA
     * [What is Java?](./docs/Java/Java.md)
@@ -26,6 +30,7 @@
     * [Synchronous Processing vs Asynchronous Processing](./docs/Javascript/AsynchronousProcessing.md)
     * [ES6: Promise](./docs/Javascript/Promise.md)
     * ES6: Async/Await
+
 
 ## 📕 Data Structure
 
@@ -108,4 +113,4 @@
 - [MVP Pattern](docs/DesignPattern/MVP.md)
 - Repository Pattern
 - [Factory Method Pattern](./docs/DesignPattern/FactoryMethodPattern.md)
-
+- Singleton
