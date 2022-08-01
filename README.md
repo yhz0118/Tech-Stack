@@ -9,7 +9,7 @@
 
 - ### 📖 JAVA
     * [What is Java?](./docs/Java/Java.md)
-    * [Difference between Java and C](./docs/Java/DiffToJavaAndC.md)
+    * [Java and C](./docs/Java/DiffToJavaAndC.md)
     * [JVM](./docs/Java/JVM(Java_Virtual_Machine).md)
     * [GC(GarbageCollection)](./docs/Java/GarbageCollection.md)  
     * [Operator](./docs/Java/Operator.md)
