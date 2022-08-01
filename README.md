@@ -108,6 +108,5 @@
 - [Sync and Async](./docs/DesignPattern/AsynchronousProcessingModel.md)
 - [MVC Pattern](/docs/DesignPattern/MVC.md)
 - [MVP Pattern](docs/DesignPattern/MVP.md)
-- Repository Pattern
-- [Factory Method Pattern](./docs/DesignPattern/FactoryMethodPattern.md)
 - Singleton
+- [Factory Method Pattern](./docs/DesignPattern/FactoryMethodPattern.md)
